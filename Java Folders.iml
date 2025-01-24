@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Exercise on Packeges" isTestSource="false" packagePrefix="folder1.folder2.folder3" />
+      <sourceFolder url="file://$MODULE_DIR$/PACKAGE_EXERCISE" isTestSource="false" packagePrefix="com.Amit.Shape" />
+      <sourceFolder url="file://$MODULE_DIR$/Packege_Sample" isTestSource="false" packagePrefix="com.amit" />
+      <sourceFolder url="file://$MODULE_DIR$/Practical_Progs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TEMP PROGRAM" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

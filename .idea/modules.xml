@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Advance_Calculator/Advance_Calculator.iml" filepath="$PROJECT_DIR$/Advance_Calculator/Advance_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Advance_Java/Advance_Java.iml" filepath="$PROJECT_DIR$/Advance_Java/Advance_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Company/Company.iml" filepath="$PROJECT_DIR$/Company/Company.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptional_Handling/Exceptional_Handling.iml" filepath="$PROJECT_DIR$/Exceptional_Handling/Exceptional_Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Guess Game/Guess Game.iml" filepath="$PROJECT_DIR$/Guess Game/Guess Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA PACKAGES/JAVA PACKAGES.iml" filepath="$PROJECT_DIR$/JAVA PACKAGES/JAVA PACKAGES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Folders.iml" filepath="$PROJECT_DIR$/Java Folders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multi Thread/Multi Thread.iml" filepath="$PROJECT_DIR$/Multi Thread/Multi Thread.iml" />
+    </modules>
+  </component>
+</project>
